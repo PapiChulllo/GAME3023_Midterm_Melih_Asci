@@ -1,6 +1,6 @@
 ﻿# GAME3023 Midterm — Calendar UI (Melih Asci)
 
-**Educational midterm project (GAME3023, student ID in repo name: 101458113).** A Unity URP 2D scene with an in-game **calendar / date-time UI** (months, seasons, day cells, events) plus simple 2D movement and month navigation helpers.
+**Educational midterm project (GAME3023).** A Unity URP 2D scene with an in-game **calendar / date-time UI** (months, seasons, day cells, events) plus simple 2D movement and month navigation helpers.
 
 ---
 
